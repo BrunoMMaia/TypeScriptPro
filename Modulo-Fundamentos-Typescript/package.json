@@ -1,0 +1,13 @@
+{
+  "name": "Modulo-Fundamentos-Typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "dev": "ts-node-dev --respawn "
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8"
+  }
+}
